@@ -1,3 +1,6 @@
+### KEY: 2 POINTS
+### KEY: Wow. Impressive! I need to ask about your crazy vooddoo solutions
+
 # Python Review Misc Topics
 
 ### Problem 1:
